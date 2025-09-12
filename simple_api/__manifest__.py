@@ -20,7 +20,7 @@
     'depends': ['base', 'account', 'contacts', 'mail','web'],
     'data': [
         'views/boleta_honorarios_views.xml',
-        'views/res_config_settings_view.xml',
+        'views/res_config_settings_views.xml',
         #'data/ir_cron_data.xml',
         'security/ir.model.access.csv',
     ],
